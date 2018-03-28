@@ -1,0 +1,11 @@
+---
+# defaults file for mysql
+user_name : ubuntu
+path: /usr
+tmp_path: /tmp
+root: root
+password: SA38
+db_name: mahmood-hagar-ahmed
+db_passward: P@ssw0rd
+group7: sql
+
